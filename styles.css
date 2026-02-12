@@ -104,3 +104,13 @@ h2 {
     Float: right;
     margin: 10px;
 }
+
+
+
+.mirrorParagraph {
+    Display: flex;
+}
+.MarieImg2 {
+    Float: left;
+    margin: 10px;
+}
